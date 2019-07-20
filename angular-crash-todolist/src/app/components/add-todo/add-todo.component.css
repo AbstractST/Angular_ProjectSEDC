@@ -1,0 +1,14 @@
+.form{
+  display:flex;
+}
+
+.form input[type='text'] {
+  flex:10 !important;
+  padding: 5px !important;
+}
+
+.form input[type='submit'] {
+  flex:1 !important;
+  background-color: #ff4444 !important;
+  border: 0;
+}
