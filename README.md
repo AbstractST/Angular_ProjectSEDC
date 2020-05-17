@@ -1,2 +1,2 @@
 # Angular_ProjectSEDC
-Angular Project - Aleksandar Stefanovski
+Angular Project (To-Do List) - Aleksandar Stefanovski
