@@ -1,2 +1,2 @@
 # Angular_Project
-Angular Project (To-Do List) - Aleksandar Stefanovski
+Angular Project (To-Do List Demo) - Aleksandar Stefanovski
